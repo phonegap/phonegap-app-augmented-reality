@@ -47,15 +47,15 @@ body {
 
 /* Portrait layout (default) */
 .app {
-    background:url(../img/logo.png) no-repeat center top; /* 170px x 200px */
+    background:url(../img/tshirt_samurai.png) no-repeat center top; /* 180 x 225 */
     position:absolute;             /* position in the center of the screen */
     left:50%;
     top:50%;
-    height:50px;                   /* text area height */
-    width:225px;                   /* text area width */
+    height:100px;                   /* text area height */
+    width:300px;                   /* text area width */
     text-align:center;
-    padding:180px 0px 0px 0px;     /* image height is 200px (bottom 20px are overlapped with text) */
-    margin:-115px 0px 0px -112px;  /* offset vertical: half of image height and text area height */
+    padding:230px 0px 0px 0px;     /* image height is 225 (bottom 20px are overlapped with text) */
+    margin: -190px 0px 0px -150px;  /* offset vertical: half of image height and text area height */
                                    /* offset horizontal: half of text area width */
 }
 
