@@ -34,8 +34,10 @@ var app = {
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         app.wikitudePlugin = cordova.require("com.wikitude.phonegap.WikitudePlugin.WikitudePlugin");
-        //app.loadARchitectWorld();
-
+        var launchDemoButton = document.getElementById('launch-demo');
+        launchDemoButton.onclick = function() {
+            app.loadARchitectWorld();
+        }
     },
     loadARchitectWorld: function() {
         app.wikitudePlugin.isDeviceSupported(function() {
