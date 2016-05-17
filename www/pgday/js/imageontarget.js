@@ -46,7 +46,7 @@ var World = {
 	},
 
 	worldLoaded: function worldLoadedFn() {
-		var message = " style='text-align: center;'";
+		var message = " style='text-align: center; font-family:Arial, sans-serif;'";
 		document.getElementById('loadingMessage').innerHTML =
 			"<div" + message + ">Swipe right or use back button to exit.</div>";
 
