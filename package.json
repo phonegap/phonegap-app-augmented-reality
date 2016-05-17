@@ -18,18 +18,5 @@
   "bugs": {
     "url": "https://github.com/timkim/phonegap-app-augmented-reality/issues"
   },
-  "homepage": "https://github.com/timkim/phonegap-app-augmented-reality",
-  "engines": {
-    "node": ">=5.0.0",
-    "npm": ">=3.0.0"
-  },
-  "main": "./lib/index.js",
-  "scripts": {
-    "start": "node ./lib/index.js"
-  },
-  "dependencies": {
-    "connect": "^3.4.1",
-    "connect-phonegap": "^0.21.4"
-  },
-  "devDependencies": {}
+  "homepage": "https://github.com/timkim/phonegap-app-augmented-reality"
 }
