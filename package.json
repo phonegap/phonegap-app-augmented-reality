@@ -1,11 +1,12 @@
 {
-  "name": "phonegap-template-hello-world",
+  "name": "phonegap-app-augmented-reality",
   "version": "1.0.0",
-  "description": "> A Hello World template built with PhoneGap",
+  "description": "Augmented Reality demo powered by Wikitude",
   "repository": {
     "type": "git",
-    "url": "https://github.com/phonegap/phonegap-app-hello-world.git"
+    "url": "https://github.com/timkim/phonegap-app-augmented-reality.git"
   },
+  "private": true,
   "author": "PhoneGap Team",
   "license": "Apache-2.0.0",
   "keywords": [
@@ -15,7 +16,11 @@
     "phonegap:template"
   ],
   "bugs": {
-    "url": "https://github.com/phonegap/phonegap-app-hello-world/issues"
+    "url": "https://github.com/timkim/phonegap-app-augmented-reality/issues"
   },
-  "homepage": "https://github.com/phonegap/phonegap-app-hello-world"
+  "homepage": "https://github.com/timkim/phonegap-app-augmented-reality",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
 }
