@@ -73,6 +73,11 @@ h1 {
 p {
     color: white;
 }
+
+.subtext {
+    font-size: 12px;
+    margin: 0;
+}
 .event {
     border-radius:4px;
     -webkit-border-radius:4px;
