@@ -46,11 +46,9 @@ var World = {
 	},
 
 	worldLoaded: function worldLoadedFn() {
-		var cssDivLeft = " style='display: table-cell;vertical-align: middle; text-align: right; width: 50%; padding-right: 15px;'";
-		var cssDivRight = " style='display: table-cell;vertical-align: middle; text-align: left;'";
+		var message = " style='text-align: center;'";
 		document.getElementById('loadingMessage').innerHTML =
-			"<div" + cssDivLeft + ">Scan Target &#35;1 (Samurai Bot):</div>" +
-			"<div" + cssDivRight + "><img src='assets/samurai_bot.png'></img></div>";
+			"<div" + message + ">Swipe right or use back button to exit.</div>";
 
 		// Remove Scan target message after 10 sec.
 		setTimeout(function() {
