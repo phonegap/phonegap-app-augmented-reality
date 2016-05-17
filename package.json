@@ -19,6 +19,10 @@
     "url": "https://github.com/timkim/phonegap-app-augmented-reality/issues"
   },
   "homepage": "https://github.com/timkim/phonegap-app-augmented-reality",
+  "engines": {
+    "node": ">=5.0.0",
+    "npm": ">=3.0.0"
+  },
   "main": "./lib/index.js",
   "scripts": {
     "start": "node ./lib/index.js"
