@@ -1,1 +1,8 @@
+# Cordova
 platforms/
+
+# OS X
+.DS_Store
+
+# npm
+/node_modules
