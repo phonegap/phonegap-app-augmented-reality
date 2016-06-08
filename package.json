@@ -4,7 +4,7 @@
   "description": "Augmented Reality demo powered by Wikitude",
   "repository": {
     "type": "git",
-    "url": "https://github.com/timkim/phonegap-app-augmented-reality.git"
+    "url": "https://github.com/phonegap/phonegap-app-augmented-reality.git"
   },
   "private": true,
   "author": "PhoneGap Team",
@@ -16,7 +16,7 @@
     "phonegap:template"
   ],
   "bugs": {
-    "url": "https://github.com/timkim/phonegap-app-augmented-reality/issues"
+    "url": "https://github.com/phonegap/phonegap-app-augmented-reality/issues"
   },
-  "homepage": "https://github.com/timkim/phonegap-app-augmented-reality"
+  "homepage": "https://github.com/phonegap/phonegap-app-augmented-reality"
 }
