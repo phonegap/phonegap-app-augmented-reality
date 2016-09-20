@@ -1,6 +1,6 @@
 {
   "name": "phonegap-app-augmented-reality",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Augmented Reality demo powered by Wikitude",
   "repository": {
     "type": "git",
